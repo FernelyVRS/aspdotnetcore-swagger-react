@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9QhhYIc3DzLKi+pDezmfOU2KK8yf7pIM8Fy7Qc7a/LBy6HWyUY+mEV1glK3ZT9vxR5yfSFFwFJuGzv8mg1XxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fer\\source\\repos\\BackendFakeApi\\BackendFakeApi\\BackendFakeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Fer\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Fer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Fer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Fer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
